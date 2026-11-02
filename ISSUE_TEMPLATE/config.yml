@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and ideas
+    url: https://github.com/MealKit-Engine/MealKit/discussions
+    about: Ask how to do something, or talk about an idea before it becomes an issue.
+  - name: Documentation
+    url: https://github.com/MealKit-Engine/MealKit-docs
+    about: The manual (English and Korean).

@@ -1,0 +1,20 @@
+name: Feature request
+description: Something MealKit should do
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please check the engine's [roadmap](https://github.com/MealKit-Engine/MealKit/blob/main/docs/ROADMAP.md) and the "Deferred / not included" table in the [decision log](https://github.com/MealKit-Engine/MealKit/blob/main/docs/DECISIONS.md) first: it may already be planned or decided against, with the reason.
+  - type: textarea
+    id: problem
+    attributes:
+      label: The problem
+      description: What you're trying to make, and what gets in the way.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: How it could work. Note anything that touches the simulation, since it must stay deterministic.

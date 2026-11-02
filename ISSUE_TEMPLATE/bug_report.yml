@@ -1,0 +1,40 @@
+name: Bug report
+description: Something doesn't work as described
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting. If the bug happens in a game, press **F9** in the game: it saves a bug report zip (info, log, screenshot and the input recording) in the game's `bugreports/` folder. Attaching it lets anyone replay the bug.
+        Security problems: please use the Security tab → Report a vulnerability instead.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, what you expected, and what happened instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open samples/sandbox in the editor
+        2. ...
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: Engine `VERSION` (or the `engine` line of `info.txt` in the bug report zip), and the tool version if it's about a tool.
+    validations:
+      required: true
+  - type: input
+    id: system
+    attributes:
+      label: System
+      description: OS, CPU and GPU (the `--system-info` output of the game is ideal).
+  - type: textarea
+    id: files
+    attributes:
+      label: Bug report zip, logs or screenshots
+      description: Drag files here.
