@@ -10,7 +10,7 @@ Thanks for helping. This file applies to every MealKit repository that has no `C
 
 ## Pull requests
 
-- Keep a pull request to one change, with tests or a check that shows it works, and the repository's README or the manual (MealKit-docs, English and Korean) updated when usage changes.
+- Keep a pull request to one change, with tests or a check that shows it works, and the repository's README or the manual (MealKit-Docs, English and Korean) updated when usage changes.
 - Code comments, log messages and file keys are English. Screen text is English source with the Korean translation next to it (each repository's README says where).
 - CI must pass.
 

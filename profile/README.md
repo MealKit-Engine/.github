@@ -7,7 +7,7 @@ A lightweight 3D multiplayer game engine that runs fast even on office PCs with 
 | Repository | What it is |
 |---|---|
 | [MealKit](https://github.com/MealKit-Engine/MealKit) | The engine and the editor, with the reference samples |
-| [MealKit-docs](https://github.com/MealKit-Engine/MealKit-docs) | The manual (English and Korean) |
+| [MealKit-Docs](https://github.com/MealKit-Engine/MealKit-Docs) | The manual (English and Korean) |
 | [MealKit-Manager](https://github.com/MealKit-Engine/MealKit-Manager) | Hub app: projects, engine versions and tools in one window |
 | [MkAudio](https://github.com/MealKit-Engine/MkAudio) | Sound event runtime and the authoring tool for sound designers |
 | [MkUI](https://github.com/MealKit-Engine/MkUI) | Game screen UI runtime |

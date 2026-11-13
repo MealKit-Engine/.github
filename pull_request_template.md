@@ -6,5 +6,5 @@
 
 - [ ] Every commit is signed off (`git commit -s`, DCO)
 - [ ] Tests or checks pass (engine: `tools\check.ps1 -Changed`)
-- [ ] Docs updated in English and Korean if usage changed (MealKit-docs, or this repository's README)
+- [ ] Docs updated in English and Korean if usage changed (MealKit-Docs, or this repository's README)
 - [ ] Simulation results unchanged, or replays and scenarios re-recorded in this pull request (engine)
