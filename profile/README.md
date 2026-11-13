@@ -9,8 +9,10 @@ A lightweight 3D multiplayer game engine that runs fast even on office PCs with 
 | [MealKit](https://github.com/MealKit-Engine/MealKit) | The engine and the editor, with the reference samples |
 | [MealKit-docs](https://github.com/MealKit-Engine/MealKit-docs) | The manual (English and Korean) |
 | [MealKit-Manager](https://github.com/MealKit-Engine/MealKit-Manager) | Hub app: projects, engine versions and tools in one window |
-| [MealKit-Audio](https://github.com/MealKit-Engine/MealKit-Audio) | Sound event runtime and the authoring tool for sound designers |
-| [MealKit-QA](https://github.com/MealKit-Engine/MealKit-QA) | Bug reports, crash reports, replays and test runs of a game |
+| [MkAudio](https://github.com/MealKit-Engine/MkAudio) | Sound event runtime and the authoring tool for sound designers |
+| [MkUI](https://github.com/MealKit-Engine/MkUI) | Game screen UI runtime |
+| [MkRender](https://github.com/MealKit-Engine/MkRender) | The engine's renderer as engine-free libraries |
+| [MkQA](https://github.com/MealKit-Engine/MealKit-QA) | Bug reports, crash reports, replays and test runs of a game |
 | [MealKit-Contract](https://github.com/MealKit-Engine/MealKit-Contract) | The shared contract between the editor and the tools |
 | [MealKit-Modules](https://github.com/MealKit-Engine/MealKit-Modules) | The list of source modules games can add |
 
