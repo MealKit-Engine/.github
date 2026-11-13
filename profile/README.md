@@ -12,7 +12,7 @@ A lightweight 3D multiplayer game engine that runs fast even on office PCs with 
 | [MkAudio](https://github.com/MealKit-Engine/MkAudio) | Sound event runtime and the authoring tool for sound designers |
 | [MkUI](https://github.com/MealKit-Engine/MkUI) | Game screen UI runtime |
 | [MkRender](https://github.com/MealKit-Engine/MkRender) | The engine's renderer as engine-free libraries |
-| [MkQA](https://github.com/MealKit-Engine/MealKit-QA) | Bug reports, crash reports, replays and test runs of a game |
+| [MkQA](https://github.com/MealKit-Engine/MkQA) | Bug reports, crash reports, replays and test runs of a game |
 | [MealKit-Contract](https://github.com/MealKit-Engine/MealKit-Contract) | The shared contract between the editor and the tools |
 | [MealKit-Modules](https://github.com/MealKit-Engine/MealKit-Modules) | The list of source modules games can add |
 
